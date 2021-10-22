@@ -1,3 +1,8 @@
+/*
+ * @Author: Lvhz
+ * @Date: 2021-10-18 11:10:00
+ * @Description: Description
+ */
 import * as babel from "@babel/core"
 import plugin from './babel-plugin-closure-id'
 
